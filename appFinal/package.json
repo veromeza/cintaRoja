@@ -1,0 +1,22 @@
+{
+  "name": "appfinal",
+  "version": "1.0.0",
+  "description": "proyecto final de cinta roja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "mongo"
+  ],
+  "author": "veronica meza",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "materialize-css": "^1.0.0",
+    "mongoose": "^5.8.12"
+  }
+}

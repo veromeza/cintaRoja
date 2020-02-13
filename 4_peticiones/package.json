@@ -1,0 +1,15 @@
+{
+  "name": "4_peticiones",
+  "version": "1.0.0",
+  "description": "Proyecto prueba en node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vero Meza",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.0"
+  }
+}
